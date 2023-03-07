@@ -27,7 +27,7 @@
     "node-fetch": "^3.2.6",
     "node-schedule": "^2.1.0",
     "node-xlsx": "^0.21.0",
-    "oicq": "npm:icqq@^0.0.28",
+    "oicq": "npm:icqq@0.0.28-1",
     "patch-package": "^6.5.0",
     "pm2": "^5.2.0",
     "puppeteer": "^13.7.0",
